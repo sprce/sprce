@@ -1,5 +1,2 @@
-Hi im spruce. 
-There's nothing here right now, sorry
-Mostly because I'm learning web and java shit and stuff
-Also a very slow learner so don't keep waiting
-Ok bye for now
+Hi I'm Spruce. 
+I'm learning a bunch of web and java shit so I might be back soon. Maybe.
