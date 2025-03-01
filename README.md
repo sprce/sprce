@@ -1,2 +1,1 @@
-Hi I'm Spruce. 
-I'm learning a bunch of web and java shit so I might be back soon. Maybe.
+Hi I'm Spruce. I'm real busy learning, like, a lot of stuff. I'll be back to chat later.
