@@ -1,1 +1,1 @@
-Hi I'm Spruce. I'm real busy learning, like, a lot of stuff. I'll be back to chat later.
+Hi I'm **Spruce**. Currently busy learning like, a ton of shit. I'll be back to for the food later.
