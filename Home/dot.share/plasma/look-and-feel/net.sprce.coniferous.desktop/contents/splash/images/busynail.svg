@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 136" width="140" height="136">
+	<defs>
+		<image  width="49" height="122" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		.s0 { fill: none } 
+		.s1 { opacity: .9;fill: #da4453 } 
+		.s2 { fill: #0000ff } 
+	</style>
+	<g>
+		<g id="stopped">
+			<path fill-rule="evenodd" class="s0" d="m-156.15 0h135.94v135.94h-135.94z"/>
+			<g>
+				<path fill-rule="evenodd" class="s1" d="m-144.15 67.97c0-2.77 2.23-5 4.99-5 2.77 0 5 2.23 5 5 0 2.76-2.23 5-5 5-2.76 0-4.99-2.24-4.99-5z"/>
+				<path fill-rule="evenodd" class="s1" d="m-41.2 67.97c0-2.21 1.79-4 4-4 2.21 0 3.99 1.79 3.99 4 0 2.21-1.78 4-3.99 4-2.21 0-4-1.79-4-4z"/>
+				<path fill-rule="evenodd" class="s1" d="m-96.18 67.97c0-4.42 3.58-8 8-8 4.42 0 8 3.58 8 8 0 4.42-3.58 7.99-8 7.99-4.42 0-8-3.57-8-7.99z"/>
+			</g>
+		</g>
+		<path id="hint-rotation-angle" fill-rule="evenodd" class="s2" d="m3.78 135.94h13.99v13.99h-13.99z"/>
+		<g id="busywidget">
+			<path fill-rule="evenodd" class="s0" d="m3.78 0h135.93v135.94h-135.93z"/>
+			<use id="Layer 1" href="#img1" x="45" y="8"/>
+		</g>
+	</g>
+</svg>

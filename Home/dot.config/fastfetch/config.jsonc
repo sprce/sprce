@@ -1,0 +1,118 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "type": "file",
+        "source": "/home/spruce/.config/fastfetch/ascii.txt",
+            "color": {
+                "1": "38;2;139;60;43",
+                "2": "38;2;226;84;52",
+                "3": "38;2;255;255;255",
+                "4": "38;2;215;118;110",
+        }
+    },
+    "display": {
+        "separator": "  ",
+            "color": {
+                "keys": "dim_yellow"
+        },
+    },
+    "modules": [
+        {
+            "type": "title",
+            "key": " ",
+            "color": {
+                "user": "white",
+                "at": "light_blue",
+                "host": "red"
+            }
+        },
+        "break",
+        {
+            "type": "command",
+            "key": " 󱋩",
+            "text":
+            "/home/spruce/.config/bristlite/bristlite-fetch-image"
+        //          "/usr/libexec/bazzite-fetch-image"
+        },
+        {
+            "type": "os",
+            "key": " 󰣛",
+            "format":"Bristlite"
+        //             "{pretty-name}"
+        },
+        {
+            "type": "logo",
+            "key": " 󰣛",
+        },
+        {
+            "type": "kernel",
+            "key": " ",
+            "format": "{1} {2}"
+        },
+        {
+            "type": "uptime",
+            "key": " 󰅐"
+        },
+        "break",
+        {
+            "type": "host",
+            "key": " 󰾰"
+        },
+        {
+            "type": "cpu",
+            "key": " 󰻠"
+        },
+        {
+            "type": "gpu",
+            "key": " 󰍛"
+        },
+        {
+            "type": "memory",
+            "key": " "
+        },
+        {
+            "type": "disk",
+            "key": " ",
+            "hideFS": "overlay"
+        },
+        {
+            "type": "display",
+            "key": " 󰍹"
+        },
+        {
+            "type": "battery",
+            "key": " "
+        },
+        {
+            "type": "gamepad",
+            "key": " 🖱"
+        },
+        "break",
+        {
+            "type": "de",
+            "key": " 󰕮"
+        },
+        {
+            "type": "wm",
+            "key": " "
+        },
+        {
+            "type": "shell",
+            "key": " "
+        },
+        {
+            "type": "terminal",
+            "key": " "
+        },
+        {
+            "type": "packages",
+            "key": " 󰏖"
+        },
+        "break",
+        {
+            "type": "colors",
+            "paddingLeft": 2,
+            "symbol": "circle"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "connor@sprce.net",
+                "Name": "Spruce"
+            }
+        ],
+        "Category": "",
+        "Description": "Personalized theme for my Bazzite image",
+        "Id": "net.sprce.coniferous.desktop",
+        "License": "GPLv2+",
+        "Name": "Coniferous",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "0.01",
+        "Website": "https://github.com/sprce"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}

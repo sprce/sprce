@@ -1,0 +1,11 @@
+{
+  "image-name": "brislite",
+  "image-vendor": "sprce",
+  "image-ref": "ostree-unverified-registry:ghcr.io/sprce/bristlite",
+  "image-tag": "stable",
+  "image-branch": "stable",
+  "base-image-name": "kinoite",
+  "fedora-version": "44",
+  "version": "44.20260608",
+  "version-pretty": "Stable (F44.20260608)"
+}
