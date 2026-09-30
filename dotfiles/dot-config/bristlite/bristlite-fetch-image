@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+RED_FLASHING='\033[6;31m'
+
+echo -n $(jq -r '"\(.["image-name"]):\(.["image-branch"])"' < /home/spruce/.config/bristlite/image-info.json)
+
+if [[ "$(rpm-ostree status --json --booted)" =~ "ostree-image-signed" ]]; then
+    echo -n -e " "
+else
+    echo -n -e " ${RED_FLASHING}🌲"
+                            //  
+fi

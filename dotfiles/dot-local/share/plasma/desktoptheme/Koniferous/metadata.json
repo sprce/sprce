@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "connor@sprce.net",
+                "Name": "Spruce"
+            }
+        ],
+        "Category": "",
+        "Description": "Koniferous by Spruce",
+        "EnabledByDefault": true,
+        "Id": "koniferous",
+        "License": "LGPL",
+        "Name": "Koniferous",
+        "Version": "1.2.0",
+        "Website": "https://github.com/sprce/bristlite"
+    },
+    "X-Plasma-API": "5.0"
+}

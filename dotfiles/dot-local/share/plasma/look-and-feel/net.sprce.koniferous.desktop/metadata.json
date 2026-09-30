@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "connor@sprce.net",
+                "Name": "Spruce"
+            }
+        ],
+        "Category": "",
+        "Description": "A foresty theme based on KDE Breeze",
+        "Id": "net.sprce.koniferous.desktop",
+        "License": "LGPL",
+        "Name": "Koniferous",
+        "Version": "1.2.0",
+        "Website": "https://github.com/sprce/bristlite"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+ }
